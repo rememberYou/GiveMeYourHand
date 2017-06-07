@@ -1,2 +1,2 @@
 # GiveMeYourHand
-GiveMeYourHelp is a first project with Laravel. 
+GiveMeYourHand is a first project with Laravel.
